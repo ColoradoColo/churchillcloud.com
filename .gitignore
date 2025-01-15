@@ -44,7 +44,3 @@ tailwind.output.css
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# Optional: Package manager files
-package-lock.json
-yarn.lock
