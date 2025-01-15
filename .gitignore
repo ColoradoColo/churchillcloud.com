@@ -44,3 +44,6 @@ tailwind.output.css
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Nix Build output
+result/
